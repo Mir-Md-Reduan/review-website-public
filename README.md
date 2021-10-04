@@ -7,7 +7,7 @@ Website Link: https://milestone-9-assignment.netlify.app/
 
 - It's Used for college service
 
-- By this website you can manage school/college/university different survices cources
+- By this website you can manage school/college/university different survices or cources
 
 - Educational Types website
 
