@@ -9,7 +9,7 @@ const Header = () => {
             <>
                 <Navbar bg="success" variant="light" >
                     <Container >
-                        <Nav className="mx-auto my-3" >
+                        <Nav className="mx-auto my-3"  >
                             <Stack direction="horizontal" gap={5}  >
                                 <NavLink
                                     to="/home"
