@@ -15,7 +15,7 @@ const Footer = () => {
                 </Row>
                 <Row>
                     <Col>
-                        {element.map(e => <span className="mx-5 ms-auto">{e}</span>)}</Col>
+                        {element.map(e => <span className="mx-5 ms-auto" >{e}</span>)}</Col>
                 </Row>
 
             </Container>
