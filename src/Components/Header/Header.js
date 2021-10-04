@@ -9,8 +9,8 @@ const Header = () => {
             <>
                 <Navbar bg="success" variant="light">
                     <Container >
-                        <Nav className="m-auto my-3">
-                            <Stack direction="horizontal" gap={5} >
+                        <Nav className="m-auto my-3" >
+                            <Stack direction="horizontal" gap={5}  >
                                 <NavLink
                                     to="/home"
                                     activeStyle={{

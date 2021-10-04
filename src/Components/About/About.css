@@ -1,0 +1,18 @@
+.about-container{
+ display: block;
+ background-color: lightslategray;
+ color: lightyellow;
+margin-top:10px ;
+border-radius: 5px;
+}
+.about-container img{
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.about-container p{
+    text-align: justify;
+}
+.paragraph{
+ margin: 0 50px;
+ padding: 50px;
+}

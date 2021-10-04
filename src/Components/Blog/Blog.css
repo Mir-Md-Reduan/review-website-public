@@ -1,0 +1,8 @@
+.post-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 15px;
+    margin-top: 10px;
+    background-color: lightgrey;
+    padding: 60px;
+}

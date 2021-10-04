@@ -3,49 +3,28 @@
         "key": "f5qHL9tNrP",
         "service": "Campus Health",
         "img": "images/img-1.jpg",
-        "cost": 90,
+        "cost": 50000,
         "description": "Care for colds, coughs, fevers, and other minor illnesses and injuries, and counseling for mental health."
     },
     {
         "key": "GqfBZCHnkL",
         "service": "Student Gym",
         "img": "images/img-2.jpg",
-        "cost": 100,
+        "cost": 50000,
         "description": "It gets even better though. The membership includes all the tools you need to help you on your fitness journey."
     },
     {
         "key": "hwixJiFjze",
         "service": "Resident Service",
         "img": "images/img-3.jpg",
-        "cost": 200,
+        "cost": 50000,
         "description": "An individual engaged in such training may be referred to as a resident, registrar or trainee depending on the jurisdiction.."
     },
     {
         "key": "FlnjJZGFZW",
         "service": "Food Service",
         "img": "images/img-4.jpg",
-        "cost": 150,
+        "cost": 50000,
         "description": "A food service worker is responsible for everything that goes into the preparation of a meal. ... A few of the main duties of a food service worker are cleaning the stove top for cooks, adhering to food safety regulations, helping cooks prepare meals, and creating simple dishes such as salad.."
-    },
-    {
-        "key": "h08MI6Csdc",
-        "service": "Career Counselling",
-        "img": "images/img-5.jpg",
-        "cost": 140,
-        "description": "Career Counselors provide individual and group career counseling/job search coaching to students/alumni to help them make informed career decisions; explore occupational choices; prepare for an effective job search and connect with part-time, internship and fulltime employment opportunities.."
-    },
-    {
-        "key": "L6iqoFpojS",
-        "service": "Network Training and Events",
-        "img": "images/img-6.jpg",
-        "cost": 120,
-        "description": "Networks are here for you to share common experiences and to receive advice and support from each other.."
-    },
-    {
-        "key": "3U3bl8MW7R",
-        "service": "Financial Aid",
-        "img": "images/img-7.jpg",
-        "cost": 100,
-        "description": "financial support given to individuals who are furthering their education. Student financial aid can come in a number of forms, including scholarships, grants, student loans, and work study programs."
     }
 ]
