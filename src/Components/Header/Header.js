@@ -68,11 +68,6 @@ const Header = () => {
                                     Contact Us
                                 </NavLink>
                             </Stack>
-                            {/* <Nav.Link href="/home">Home</Nav.Link>
-                            <Nav.Link href="/About">About</Nav.Link>
-                            <Nav.Link href="/Services">Services</Nav.Link>
-                            <Nav.Link href="/Blog">Blog</Nav.Link>
-                            <Nav.Link href="/contactUs">Contact Us</Nav.Link> */}
                         </Nav>
                     </Container>
                 </Navbar>
