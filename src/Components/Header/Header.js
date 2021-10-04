@@ -18,6 +18,7 @@ const Header = () => {
                                         color: "red",
                                         textDecoration: "none",
                                     }}
+                                    style={{ textDecoration: 'none' }}
                                 >
                                     Home
                                 </NavLink>
@@ -29,6 +30,7 @@ const Header = () => {
                                         textDecoration: "none",
 
                                     }}
+                                    style={{ textDecoration: 'none' }}
                                 >
                                     About
                                 </NavLink>
@@ -39,6 +41,7 @@ const Header = () => {
                                         color: "red",
                                         textDecoration: "none",
                                     }}
+                                    style={{ textDecoration: 'none' }}
                                 >
                                     Services
                                 </NavLink>
@@ -49,6 +52,7 @@ const Header = () => {
                                         color: "red",
                                         textDecoration: "none",
                                     }}
+                                    style={{ textDecoration: 'none' }}
                                 >
                                     Blog
                                 </NavLink>
@@ -59,6 +63,7 @@ const Header = () => {
                                         color: "red",
                                         textDecoration: "none",
                                     }}
+                                    style={{ textDecoration: 'none' }}
                                 >
                                     Contact Us
                                 </NavLink>
